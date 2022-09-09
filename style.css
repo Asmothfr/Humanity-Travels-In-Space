@@ -1,0 +1,46 @@
+body{
+    font-size: 62.5%;
+    background-color: black;
+    color: white;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.title{
+    width: fit-content;
+    margin: 4rem auto;
+    padding: 2rem;
+    font-size: 2rem;
+    text-align: center;
+    border: 1px solid blue;
+
+}
+.content-bloc{
+    width: 50vw;
+    margin: 0 auto;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.content-text{
+    font-size: 1rem;
+}
+.fa-2x{
+    margin-right: 0.5rem;
+}
+.fa-earth-americas{
+    color: rgb(0, 119, 255);
+}
+.fa-sun{
+    color: rgb(255, 200, 0);
+}
+.fa-timeline{
+    color: antiquewhite;
+}
+.fa-clock{
+    color:slategrey;
+}
